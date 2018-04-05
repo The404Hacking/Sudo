@@ -26,9 +26,9 @@ Example:
 
 -------------------------------
 # Download and Clone
-> Download: Click [Here](https://github.com/The404Hacking/Windows-Python-RAT/archive/master.zip)
+> Download: Click [Here](https://github.com/The404Hacking/Sudo/archive/master.zip)
 
-> Clone: git clone [https://github.com/The404Hacking/Windows-Python-RAT.git](https://github.com/The404Hacking/Windows-Python-RAT.git)
+> Clone: git clone [https://github.com/The404Hacking/Sudo.git](https://github.com/The404Hacking/Sudo.git)
 
 # The404Hacking | Digital UnderGround Team
 [The404Hacking](https://T.me/The404Hacking)
